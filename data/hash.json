@@ -1,0 +1,45 @@
+[
+    {
+        "component_name": "cloths",
+        "root_vs": "e8425f64cfb887cd",
+        "draw_vb": "90844efd",
+        "position_vb": "2373f29d",
+        "blend_vb": "f992d345",
+        "texcoord_vb": "caf065e1",
+        "ib": "65fe8390",
+        "object_indexes": [
+            0,
+            34080
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d3258ee6"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "11876d71"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d3258ee6"
+                ],
+                [
+                    "MaterialMap",
+                    ".dds",
+                    "11876d71"
+                ]
+            ]
+        ]
+    }
+]
