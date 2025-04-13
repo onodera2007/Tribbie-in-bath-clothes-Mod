@@ -1,10 +1,10 @@
 [
     {
         "component_name": "cloths",
-        "root_vs": "e8425f64cfb887cd",
-        "draw_vb": "90844efd",
-        "position_vb": "2373f29d",
-        "blend_vb": "f992d345",
+        "root_vs": "",
+        "draw_vb": "9f177bf0",
+        "position_vb": "9f177bf0",
+        "blend_vb": "",
         "texcoord_vb": "caf065e1",
         "ib": "65fe8390",
         "object_indexes": [
